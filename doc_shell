@@ -41,3 +41,4 @@ main(){
   start_sh ${cid}
 
 }
+main $1
