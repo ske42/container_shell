@@ -20,3 +20,4 @@ It will create a soft link in your usr/bin folder.
 
 Have Fun
 
+P.S may be later it will be dif way to install script, but how will you get my awsome updates?
